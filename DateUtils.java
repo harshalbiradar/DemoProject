@@ -1,4 +1,4 @@
-public class Demo{
+public class DateUtils{
 
 	public void printSomething(){
 		
